@@ -1,0 +1,24 @@
+Xft.dpi: 192
+
+Alacritty.termName : alacritty
+
+
+! Gruber-Darker
+Alacritty*foreground: #e4e4ef
+Alacritty*background: #181818
+Alacritty*color0:  #2E3436
+Alacritty*color1:  #a40000
+Alacritty*color2:  #4E9A06
+Alacritty*color3:  #C4A000
+Alacritty*color4:  #3465A4
+Alacritty*color5:  #75507B
+Alacritty*color6:  #ce5c00
+Alacritty*color7:  #babdb9
+Alacritty*color8:  #555753
+Alacritty*color9:  #EF2929
+Alacritty*color10: #8AE234
+Alacritty*color11: #FCE94F
+Alacritty*color12: #729FCF
+Alacritty*color13: #AD7FA8
+Alacritty*color14: #fcaf3e
+Alacritty*color15: #EEEEEC
